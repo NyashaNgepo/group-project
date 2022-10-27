@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color:cadetblue;
+}
+.form-group{
+    height: 8Opx;
+    width: 80px;   
+}
+.form-control{
+    height: 30px;
+    width: 280px;
+    margin-top: 20px;
+    
+}
+.btn-block{
+    height: 35px;
+    width: 100px;
+    margin-top: 20px;
+    background-color:dimgray;
+    color: white;
+
+}
+.card-container{
+    margin-left: 600px;
+   
+}
+.profile-img-card{
+    height: 80px;
+    margin-bottom: 20px;
+}
+.nav{
+    display: inline;
+}
